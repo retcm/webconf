@@ -1,1 +1,1 @@
-# webconf
+See detailed tutorial at https://mongoose.ws/tutorials/webui-plain/
